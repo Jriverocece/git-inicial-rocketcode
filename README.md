@@ -1,1 +1,2 @@
-# git-inicial-rocketcode
+
+ESTA ES LA DESCRIPCION DE MI PROYECTO
